@@ -29,7 +29,7 @@ Platforms like Quora often need to detect if a new question has already been ask
 - **F1 (duplicate class):** 0.51
 - **Confusion Matrix:**
 
-![conf-matrix](image.png)
+![alt text](image-2.png)
 
 ### Observations
 
